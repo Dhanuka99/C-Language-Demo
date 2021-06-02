@@ -1,8 +1,18 @@
-#include<stdio.h>
+#include <stdio.h>
+
+
 
 int main(){
-printf("hello World\n");
-printf("Dhanuka Lakshan\n");
-printf("I'm 20 Yrs old..");
 
+int a =100;
+double b = 3.434;
+float c = 32.43;
+char d = 'A';
+
+printf("%d\n",a);
+printf("%f\n",b);
+printf("%f\n",c);
+printf("%c\n",d);
+
+return 0;
 }
